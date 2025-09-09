@@ -27,15 +27,15 @@ This is **Sprint 1** of the project: a console-based app that allows translation
 
 ## 📂 Project Structure
 
-LinguaLink/
-├─ src/main/java/
-│ └─ app/
-│ ├─ Main.java # Entry point (console app)
-│ ├─ core/ # Interfaces & models
-│ ├─ engine/ # Translation logic
-│ ├─ features/ # Quiz & learning modules
-│ └─ util/ # Console helper
-└─ README.md
+`LinguaLink/`  
+`├─ src/main/java/`  
+`│  └─ app/`  
+`│     ├─ Main.java       # Entry point (console app)`  
+`│     ├─ core/           # Interfaces & models`  
+`│     ├─ engine/         # Translation logic`  
+`│     ├─ features/       # Quiz & learning modules`  
+`│     └─ util/           # Console helper`  
+`└─ README.md`
 
 ---
 
