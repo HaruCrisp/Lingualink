@@ -80,7 +80,7 @@ This is **Sprint 1** of the project: a console-based app that allows translation
 
 ---
 
-## 👥 Team (Sprint 1)
+## 👥 Team Members
 - Bryan Perez
 - Christian Mendez
 - Haruki Horiuchi
