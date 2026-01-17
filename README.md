@@ -23,21 +23,7 @@ This is **Sprint 1** of the project: a console-based app that allows translation
 - **Console Menu**  
   Simple text menu to navigate features.
 
----
-
-## 📂 Project Structure
-
-`LinguaLink/`  
-`├─ src/main/java/`  
-`│  └─ app/`  
-`│     ├─ Main.java       # Entry point (console app)`  
-`│     ├─ core/           # Interfaces & models`  
-`│     ├─ engine/         # Translation logic`  
-`│     ├─ features/       # Quiz & learning modules`  
-`│     └─ util/           # Console helper`  
-`└─ README.md`
-
----
+--
 
 ## ▶️ Running the App
 
